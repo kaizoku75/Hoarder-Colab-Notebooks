@@ -87,7 +87,7 @@ GDriveUploaderBot
 
 <a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/Google_Drive_Scripts.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-AutoRclone_(break_750Gb_Limit)v2
+<a href="https://onehack.us/t/autorclone-on-colab-shared-folder-to-td-transfer-750gb-limit-bypass-video-tutorial/87841">AutoRclone_(break_750Gb_Limit)v2</a>
 
 <a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/AutoRclone_(break_750Gb_Limit)v2.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
