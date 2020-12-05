@@ -137,6 +137,10 @@ Youtubedl
 
 <a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/Youtubedl.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+<a href="https://github.com/paramphy/colab-anime-downloader">anime_downloader_colab</a>
+
+<a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/anime_downloader_colab" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 # MISCELLANEOUS
 
 Google_Colab_Shell
