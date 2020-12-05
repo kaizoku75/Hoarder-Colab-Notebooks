@@ -83,7 +83,7 @@ GDriveUploaderBot
 
 <a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/C2C_Transfer.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Google_Drive_Scripts
+<a href="https://github.com/RaymondSalim/google-drive-scripts">Google_Drive_Scripts</a>
 
 <a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/Google_Drive_Scripts.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
