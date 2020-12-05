@@ -25,7 +25,7 @@ Aria2 for Colab-v1.2.1
 
 <a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/Aria2 for Colab-v1.2.1.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Aria2Downloader
+<a href="https://github.com/Pentaly7/Colab-Aria2-Downloader">Aria2Downloader</a>
 
 <a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/Aria2Downloader.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
