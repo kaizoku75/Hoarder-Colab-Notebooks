@@ -33,7 +33,7 @@ Aria2 for Colab-v1.2.1
 
 <a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/Torrent_To_Google_Drive_Downloader.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Torrents_to_Google_Drive
+<a href="https://github.com/sudo-ken/Torrents-to-Google-Drive">Torrents_to_Google_Drive</a>
 
 <a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/Torrents_to_Google_Drive.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
