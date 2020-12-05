@@ -62,3 +62,31 @@ Unrar_Unzip_Rar_Zip_in_GDrive
 zip_unzip
 
 <a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/zip_unzip.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+Google_Drive_Online_Decompression
+
+<a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/Google_Drive_Online_Decompression.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+Transfer_files_from_Mega_to_Google_Drive
+
+<a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/Transfer_files_from_Mega_to_Google_Drive.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+Transfer_between_drives
+
+<a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/Transfer_between_drives.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+C2C_Transfer
+
+<a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/C2C_Transfer.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+Any_file_to_Google_Drive
+
+<a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/Any_file_to_Google_Drive.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+Google_Drive_Scripts
+
+<a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/Google_Drive_Scripts.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+AutoRclone_(break_750Gb_Limit)v2
+
+<a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/AutoRclone_(break_750Gb_Limit)v2.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
