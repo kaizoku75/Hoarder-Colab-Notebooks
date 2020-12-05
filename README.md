@@ -53,7 +53,7 @@
 
 <a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/Downloader.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-GDriveUploaderBot
+<a href="https://github.com/nastyzera/Torrent-Drive-Telegram-Bot-Using-Colab">GDriveUploaderBot</a>
 
 <a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/GDriveUploaderBot.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
