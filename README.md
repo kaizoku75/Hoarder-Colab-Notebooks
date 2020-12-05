@@ -67,7 +67,7 @@ GDriveUploaderBot
 
 <a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/zip_unzip.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Google_Drive_Online_Decompression
+<a href="https://github.com/Wilnk/Google-Drive-Online-Decompression">Google_Drive_Online_Decompression</a>
 
 <a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/Google_Drive_Online_Decompression.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
