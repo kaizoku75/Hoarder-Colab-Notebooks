@@ -105,7 +105,7 @@ AutoRclone_(break_750Gb_Limit)v2
 
 <a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/FFmpeg_for_GDrive.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-HandBrakeCLI_Colab
+<a href="https://github.com/SKGHD/Handy">HandBrakeCLI_Colab</a>
 
 <a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/HandBrakeCLI_Colab.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
