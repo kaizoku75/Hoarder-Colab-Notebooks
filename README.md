@@ -21,7 +21,7 @@
 
 # TORRENT DOWNLOAD
 
-Aria2 for Colab-v1.2.1
+<a href="https://github.com/hmglife/aria2-colab">Aria2 for Colab-v1.2.1</a>
 
 <a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/Aria2 for Colab-v1.2.1.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
