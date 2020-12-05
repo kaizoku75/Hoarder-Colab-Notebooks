@@ -21,4 +21,36 @@ Torrent2MegaGdriveV2
 
 TORRENT DOWNLOAD
 
+Aria2 for Colab-v1.2.1
+
+<a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/Aria2 for Colab-v1.2.1.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+Aria2Downloader
+
+<a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/Aria2Downloader.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+Torrent_To_Google_Drive_Downloader
+
+<a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/Torrent_To_Google_Drive_Downloader.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+Torrents_to_Google_Drive
+
+<a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/Torrents_to_Google_Drive.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+Any To GDrive
+
+<a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/Any To GDrive.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+Torrent
+
+<a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/Torrent.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+torrentcloud
+
+<a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/torrentcloud.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+Downloader
+
+<a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/Downloader.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 
