@@ -90,3 +90,17 @@ Google_Drive_Scripts
 AutoRclone_(break_750Gb_Limit)v2
 
 <a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/AutoRclone_(break_750Gb_Limit)v2.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+MEDIA CONVERTERS
+
+FFMPEG_HEVC_AAC
+
+<a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/FFMPEG_HEVC_AAC.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+FFmpeg_for_GDrive
+
+<a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/FFmpeg_for_GDrive.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+HandBrakeCLI_Colab
+
+<a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/HandBrakeCLI_Colab.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
