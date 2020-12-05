@@ -111,7 +111,7 @@ RemoColab
 
 <a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/RemoColab.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-VNC_Server_Colab_[KENWAY]
+<a href="https://github.com/K-E-N-W-A-Y/VNC-Script-for-Colab">VNC_Server_Colab_[KENWAY]</a>
 
 <a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/VNC_Server_Colab_[KENWAY].ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
