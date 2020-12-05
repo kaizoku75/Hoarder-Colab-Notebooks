@@ -55,4 +55,10 @@ Downloader
 
 CLOUD MANAGEMENT/TOOLS
 
+Unrar_Unzip_Rar_Zip_in_GDrive
 
+<a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/Unrar_Unzip_Rar_Zip_in_GDrive.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+zip_unzip
+
+<a href="https://colab.research.google.com/github/DarremMolko/Hoarder-Colab-Notebooks/blob/master/zip_unzip.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
